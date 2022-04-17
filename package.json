@@ -12,7 +12,10 @@
   "dependencies": {
     "express": "^4.17.3",
     "mongodb": "^4.4.0",
-    "nodemon": "^2.0.15",
+    "nodemon": "^2.0.15"
+  },
+  "engines": {
+    "npm": ">=6.0.0",
     "node": ">=16.0.0"
-  }
+  },
 }
